@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1676701467 source:c:\users\apark\documents\snhu\cs300\cs300 project one_v1\csvparser.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	"CSVparser.hpp"
+
+1673758780 c:\users\apark\documents\snhu\cs300\cs300 project one_v1\csvparser.hpp
+	<stdexcept>
+	<string>
+	<vector>
+	<list>
+	<sstream>
+
+1676703178 source:c:\users\apark\documents\snhu\cs300\cs300 project one_v1\projectone_v1.cpp
+	<algorithm>
+	<iostream>
+	<time.h>
+	"CSVparser.hpp"
+
